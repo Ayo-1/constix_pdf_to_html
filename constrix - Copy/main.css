@@ -1,6 +1,4 @@
-body {
-	
-}
+
 .nav-pills-item {
 font-size: 23px;
 margin:20px;
@@ -16,9 +14,9 @@ overflow-x: hidden;
 }
 div#Hero {
 	background: url("j.jpg");
-	height: auto;
+	
 	background-attachment: fixed;
-	background-position: center;
+	
 
 
 
